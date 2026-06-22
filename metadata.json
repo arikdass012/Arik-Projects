@@ -1,0 +1,6 @@
+{
+  "name": "GridGuard",
+  "description": "Smart Power Grid Fault Detection Simulator & Dashboard supporting real-time signal generation, 3-phase waveforms, FFT analysis, rule-based classification, and an industrial SCADA analytics panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
